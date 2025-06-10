@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Здраво, јас сум Стефан!
 
-<!--
-**StefanNajdoskii/StefanNajdoskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент на ФИКТ
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Моментално учам:
+- JavaScript,Java
+- Основи на OOP
+- Градење мали frontend апликации
+
+---
+
+## 🔧 Технологии:
+- HTML5, CSS3, JavaScript (ES6)
+- Git, GitHub
+- VS Code
+
+---
+
+## 💻 Мои проекти:
+
+- 🔹 [Gumisimo App](https://gumisimo.weebly.com/))
+- 🔹 [Менувачница во JS](https://github.com/StefanNajdoskii/crypto-excange)
+
+
+---
+
+## 📬 Контакт:
+- Email: najdoski.stefan@uklo.edu.mk
+- LinkedIn: (https://www.linkedin.com/in/stefan-najdoski-7a055a2b4/)
