@@ -20,7 +20,7 @@
 
 ## 💻 Мои проекти:
 
-- 🔹 [Gumisimo App](https://gumisimo.weebly.com/))
+- 🔹 [Gumisimo App](https://gumisimo.weebly.com/)
 - 🔹 [Менувачница во JS](https://github.com/StefanNajdoskii/crypto-excange)
 
 
